@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Jeff909Dev/Jeff909Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at Ucademy and PlayClub
+- 💬 Ask me about music and tech!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left" style="display: inline_block">
+  <a href="https://github.com/Jeff909Dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeff909Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+[//]: # (These are reference links used in the body of this note.)
+[linkedin-image]: https://img.shields.io/badge/Linkedin-@jeffreyviveros-blue
+[linkedin-url]: https://linkedin.com/in/jeffreyviveros
+[email-image]: https://img.shields.io/badge/email-mrjeffersonx@gmail.com-red.svg
+[email-url]: mailto:mrjeffersonx@gmail.com
