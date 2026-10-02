@@ -12,6 +12,8 @@ More about my music side at [mrjeffersonlive.com](https://mrjeffersonlive.com)
 
 | | Project | What it does |
 |---|---|---|
+| 📊 | **[Claude Usage](https://claude-code-usage.vercel.app)** | macOS menu bar app that tracks limits, pace and API-equivalent spend across all your Claude accounts — and switches the account your terminal’s Claude Code uses in one click |
+| 🔀 | **[Account Switcher for Claude](https://claude-account-switcher.vercel.app)** | Chrome extension that keeps several claude.ai accounts signed in, switches between them in one click and opens shared links in the account they belong to |
 | ☀️ | **[Solarus AI](https://solarus-ai.vercel.app/)** | AI-powered platform for managing and forecasting solar installations with real-time monitoring and ML predictions |
 | 🎹 | **[Ableton MCP](https://github.com/Jeff909Dev/ableton-mcp)** | MCP server that lets you control Ableton Live from AI assistants — create tracks, generate patterns, load samples, all through conversation |
 | 🥁 | **[Stepista](https://stepista.vercel.app/)** | AI-driven MIDI pattern generator for electronic music with real-time visualization and Ableton integration |
